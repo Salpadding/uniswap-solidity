@@ -16,3 +16,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+
+db.json
+package-lock.json
+yarn.lock
+artifacts
+cache
