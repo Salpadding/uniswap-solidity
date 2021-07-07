@@ -12,7 +12,7 @@ export default {
   },
   networks: {
     tdos: {
-      url: 'http://localhost:7010',
+      url: 'http://salpadding.local:7010',
       accounts: [privateKey]
     },
     geth: {
