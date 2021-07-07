@@ -45,7 +45,7 @@
     "solc": "^0.5.3",
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
-    "@remix-project/remixd": "^0.3.2",
+    "@remix-project/remixd": "^0.4.1",
     "hardhat": "npm:@salaku/hardhat",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3",
